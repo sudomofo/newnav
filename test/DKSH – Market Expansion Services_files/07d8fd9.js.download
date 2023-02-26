@@ -1,0 +1,215 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[48],{
+
+/***/ 408:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer.vue?vue&type=template&id=48ee80ea&
+var render=function render(){var _vm=this,_c=_vm._self._c;return _c('footer',{staticClass:"footer text-t1"},[_vm._m(0),_vm._v(" "),_c('div',{staticClass:"container-fluid bg-dark-gray footer__content"},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"row justify-content-lg-between"},[_c('div',{staticClass:"col-12 col-lg-3 mb-5 mb-lg-0"},[_c('div',{staticClass:"social-box"},[_c('h4',{staticClass:"footer__content-headline-2 text-t1"},[_vm._v("Follow Us")]),_vm._v(" "),_c('span',{staticClass:"footer__content-socialMediaIcons"},[_c('a',{attrs:{"target":"_blank","href":"https://www.facebook.com/dkshgroup"}},[_c('img',{attrs:{"src":_vm.basePath+'socialMediaIcons/Footer_001-facebook.png',"alt":"Facebook"}})]),_vm._v(" "),_c('a',{attrs:{"target":"_blank","href":"https://www.youtube.com/user/DKSHGroup"}},[_c('img',{attrs:{"src":_vm.basePath+'socialMediaIcons/Footer_008-youtube.png',"alt":"YouTube"}})]),_vm._v(" "),_c('a',{attrs:{"target":"_blank","href":"https://linkedin.com/company/dksh"}},[_c('img',{attrs:{"src":_vm.basePath+'socialMediaIcons/Footer_010-linkedin.png',"alt":"LinkedIn"}})]),_vm._v(" "),_c('a',{attrs:{"target":"_blank","href":"https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=dkshgroup"}},[_c('img',{attrs:{"src":_vm.basePath+'socialMediaIcons/Footer_013-twitter.png',"alt":"Twitter"}})])])])]),_vm._v(" "),_vm._m(1)])])]),_vm._v(" "),_vm._m(2)]);};var staticRenderFns=[function(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"container-fluid bg-primary footer__redBox"},[_c('div',{staticClass:"col d-flex justify-content-center align-items-center h-100"},[_c('p',{staticClass:"m-0"},[_vm._v("Delivering Growth – in Asia and Beyond.")])])]);},function(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"col-12 col-lg-8"},[_c('h4',{staticClass:"footer__content-headline-3 text-t1"},[_vm._v("Quick Links")]),_vm._v(" "),_c('div',{staticClass:"link-box d-flex flex-wrap text-t2 text-white"},[_c('div',{staticClass:"col-lg-3 col-12"},[_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/about-us"}},[_vm._v("About Us")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/careers"}},[_vm._v("Careers")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/investors"}},[_vm._v("Investors")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/media"}},[_vm._v("Media")])]),_vm._v(" "),_c('div',{staticClass:"col-lg-3 col-12"},[_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/about-us/sustainability"}},[_vm._v("Sustainability")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/insights"}},[_vm._v("Insights")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/about-us/what-we-do/locations"}},[_vm._v("Locations")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/contacts"}},[_vm._v("Contacts")])]),_vm._v(" "),_c('div',{staticClass:"col-lg-3 col-12"},[_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/consumer-goods"}},[_vm._v("Consumer Goods")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/healthcare"}},[_vm._v("Healthcare")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/performance-materials"}},[_vm._v("Performance Materials")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/technology"}},[_vm._v("Technology")])]),_vm._v(" "),_c('div',{staticClass:"col-lg-3 col-12"},[_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/terms-and-conditions"}},[_vm._v("Terms and Conditions")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/privacy"}},[_vm._v("Privacy Statement")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/data-request-form?dksh_contact=1578343480793"}},[_vm._v("Privacy Request")]),_vm._v(" "),_c('a',{staticClass:"link-light",attrs:{"href":"https://www.dksh.com/global-en/home/imprint"}},[_vm._v("Imprint")])])])]);},function(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"container-fluid footer__greyBox"},[_c('div',{staticClass:"container d-flex align-items-center justify-content-center justify-content-lg-between h-100 flex-lg-row flex-column"},[_c('div',{staticClass:"footer__note"},[_vm._v("\n        © Copyright 2022 | An ISO27001 certified company\n      ")]),_vm._v(" "),_c('img',{staticClass:"footer__logo",attrs:{"src":"https://www.dksh.com/static/DKSH/images/logo_dksh_white.svg","alt":"DKSH Logo"}})])]);}];
+// CONCATENATED MODULE: ./components/Footer.vue?vue&type=template&id=48ee80ea&
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.slice.js
+var es_array_slice = __webpack_require__(51);
+
+// EXTERNAL MODULE: ./nuxt.config.js
+var nuxt_config = __webpack_require__(395);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer.vue?vue&type=script&lang=js&
+/* harmony default export */ var Footervue_type_script_lang_js_ = ({name:"Footer",data:function data(){return{columnMaxItems:4,basePath:nuxt_config["b" /* BASE_PATH */]};},methods:{getQuickLinksColumn:function getQuickLinksColumn(){var index=arguments.length>0&&arguments[0]!==undefined?arguments[0]:0;return this.data.quick_links.slice(index*this.columnMaxItems,index*this.columnMaxItems+this.columnMaxItems);}}});
+// CONCATENATED MODULE: ./components/Footer.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_Footervue_type_script_lang_js_ = (Footervue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(34);
+
+// CONCATENATED MODULE: ./components/Footer.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_Footervue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var Footer = __webpack_exports__["default"] = (component.exports);
+
+/* nuxt-component-imports */
+installComponents(component, {Footer: __webpack_require__(408).default})
+
+
+/***/ }),
+
+/***/ 422:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/FINAL_Our_promise_shutterstock_1125547376-2.6982120.jpg";
+
+/***/ }),
+
+/***/ 424:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Navigation.vue?vue&type=template&id=68e203a1&
+var render=function render(){var _this=this;var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"navigation-bar__wrapper",class:{hide:_vm.hide&&!_vm.showLanguageMenu}},[_c('div',{staticClass:"navbar_languageMenu",class:{showLanguageMenu:_vm.showLanguageMenu}},[_c('div',{staticClass:"navbar_languageMenu-closeButton",on:{"click":function click($event){_vm.showLanguageMenu=false;}}},[_c('span',{staticClass:"icon icon-close lg white"})]),_vm._v(" "),_vm._m(0),_vm._v(" "),_c('div',{staticClass:"navbar_languageMenu-locations"},[_c('ul',{staticClass:"ak-ul",attrs:{"data-indent-level":"1"}},_vm._l(_vm.markets,function(market){return _c('li',[_c('a',{attrs:{"href":market.href}},[_vm._v(_vm._s(market.market))])]);}),0)])]),_vm._v(" "),_c('header',{staticClass:"navigation-bar bg-primary"},[_c('div',{staticClass:"navigation-bar__items"},[_c('div',{staticClass:"navigation-bar__item navigation-bar__item--menu",class:{open:_vm.open},on:{"click":function click(){_this.open=!_vm.open;_this.activeNavigation=undefined;_this.showLanguageMenu=false;}}},[_vm._m(1)]),_vm._v(" "),_c('div',{staticClass:"navigation-bar__item navigation-bar__item--markets",on:{"click":function click(){_this.showLanguageMenu=!_this.showLanguageMenu;_this.open=false;}}},[_c('span',{staticClass:"icon icon-earth md white"})]),_vm._v(" "),_c('a',{staticClass:"navigation-bar__logo-wrapper",attrs:{"href":"https://www.dksh.com/global-en/home"}},[_c('img',{staticClass:"navigation-bar__logo",attrs:{"src":_vm.logoSrc,"alt":"DKSH Logo"}})]),_vm._v(" "),_c('div',{staticClass:"navigation-bar__fly-out--mobile",class:{open:_vm.open}},[_c('div',{staticClass:"navigation-bar__fly-out--mobile__head"},[_c('div',{staticClass:"navigation-bar__fly-out--mobile__markets",on:{"click":function click($event){_vm.showLanguageMenu=!_vm.showLanguageMenu;}}},[_c('span',{staticClass:"icon icon-earth black sm",class:{red:_vm.showLanguageMenu}})])]),_vm._v(" "),_c('nav',{staticClass:"navigation-bar__fly-out--mobile__nav"},[_c('ul',{staticClass:"navigation-bar__fly-out--mobile__nav__list"},_vm._l(_vm.mobileTree,function(navigation){return _c('li',{staticClass:"navigation-bar__fly-out--mobile__nav__item",class:{open:_vm.activeNavigation===navigation},on:{"click":function click($event){navigation.children?_vm.activeNavigation=_vm.activeNavigation===navigation?_vm.activeNavigation=undefined:_vm.activeNavigation=navigation:true;}}},[_c('span',[_c('a',{attrs:{"href":!navigation.children&&navigation.href}},[_vm._v(_vm._s(navigation.title))]),_vm._v(" "),navigation.children?_c('span',{staticClass:"icon xs black icon-chevron--down"}):_vm._e()]),_vm._v(" "),navigation.children?_c('div',{staticClass:"navigation-bar__fly-out--mobile__sub-nav"},[_c('div',{staticClass:"navigation-bar__fly-out--mobile__sub-nav__head"},[_c('div',{staticClass:"navigation-bar__fly-out--mobile__sub-nav__head__overlay"}),_vm._v(" "),_c('a',{attrs:{"href":navigation.href}},[_vm._v("\n                    "+_vm._s(navigation.title)+"\n                    "),_c('span',{staticClass:"icon icon-chevron--right sm white"})])]),_vm._v(" "),_c('ul',{staticClass:"navigation-bar__fly-out--mobile__sub-nav__list"},_vm._l(navigation.children,function(child){return _c('li',{staticClass:"navigation-bar__fly-out--mobile__sub-nav__item"},[_c('a',{attrs:{"href":child.href}},[_vm._v(_vm._s(child.title))])]);}),0)]):_vm._e()]);}),0)])]),_vm._v(" "),_c('div',{staticClass:"navigation-bar__fly-out",class:{open:_vm.open}},[_c('nav',{staticClass:"navigation-bar__nav"},[_c('ul',{staticClass:"navigation-bar__nav__list"},_vm._l(_vm.navigationTree,function(mainNavigation){return _c('li',{staticClass:"navigation-bar__nav__item",class:{active:_vm.activeNavigation===mainNavigation},on:{"mouseover":function mouseover($event){_vm.activeNavigation=mainNavigation;}}},[_c('a',{attrs:{"href":mainNavigation.href}},[_vm._v(_vm._s(mainNavigation.title))]),_vm._v(" "),mainNavigation.children?_c('span',{staticClass:"icon md black icon-chevron--down"}):_vm._e()]);}),0)]),_vm._v(" "),_c('div',{staticClass:"navigation-bar__image",style:'background-image: url(\''+_vm.backgroundSrc+'\');'},[_c('div',{staticClass:"navigation-bar__image__overlay"}),_vm._v(" "),_c('div',{staticClass:"navigation-bar__image__text"},[_vm._v("\n            Delivering Growth – in Asia and Beyond.\n          ")]),_vm._v(" "),_c('div',{staticClass:"navigation-bar__sub-nav",class:{show:_vm.activeNavigation&&_vm.activeNavigation.children}},[_c('ul',{staticClass:"navigation-bar__sub-nav__list"},_vm._l(_vm.activeNavigation&&_vm.activeNavigation.children||[],function(childNavigation){return _c('li',{staticClass:"navigation-bar__sub-nav__item"},[_c('a',{attrs:{"href":childNavigation.href}},[_vm._v(_vm._s(childNavigation.title))])]);}),0)])]),_vm._v(" "),_c('nav',{staticClass:"navigation-bar__bottom-nav"},[_c('ul',{staticClass:"navigation-bar__bottom-nav__list"},_vm._l(_vm.bottomNavigationTree,function(bottomNavigation){return _c('li',{staticClass:"navigation-bar__bottom-nav__item"},[_c('a',{attrs:{"href":bottomNavigation.href}},[_vm._v(_vm._s(bottomNavigation.title))]),_vm._v(" "),bottomNavigation.children?_c('span',{staticClass:"icon sm black icon-chevron--down"}):_vm._e(),_vm._v(" "),bottomNavigation.children?_c('div',{staticClass:"navigation-bar__bottom-nav__sub-nav"},[_c('ul',{staticClass:"navigation-bar__bottom-nav__sub-nav__list"},_vm._l(bottomNavigation.children,function(childBottomNavigation){return _c('li',{staticClass:"navigation-bar__bottom-nav__sub-nav__item"},[_c('a',{attrs:{"href":childBottomNavigation.href}},[_vm._v(_vm._s(childBottomNavigation.title))])]);}),0)]):_vm._e()]);}),0)])])])])]);};var staticRenderFns=[function(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"navbar_languageMenu-headline d-flex"},[_c('div',{staticClass:"bordered--right"},[_c('h2',{staticClass:"subhead-s1 color-red"},[_c('a',{staticClass:"raw",attrs:{"href":"https://www.dksh.com/global-en/home"}},[_vm._v("Global Website")])])])]);},function(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"navigation-bar__item--menu__icon"},[_c('span',{staticClass:"navigation-bar__item--menu__icon__line"}),_vm._v(" "),_c('span',{staticClass:"navigation-bar__item--menu__icon__line"}),_vm._v(" "),_c('span',{staticClass:"navigation-bar__item--menu__icon__line"}),_vm._v(" "),_c('span',{staticClass:"navigation-bar__item--menu__icon__line"})]);}];
+// CONCATENATED MODULE: ./components/Navigation.vue?vue&type=template&id=68e203a1&
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
+var es_array_concat = __webpack_require__(63);
+
+// EXTERNAL MODULE: ./nuxt.config.js
+var nuxt_config = __webpack_require__(395);
+
+// EXTERNAL MODULE: ./static/img/FINAL_Our_promise_shutterstock_1125547376-2.jpg
+var FINAL_Our_promise_shutterstock_1125547376_2 = __webpack_require__(422);
+var FINAL_Our_promise_shutterstock_1125547376_2_default = /*#__PURE__*/__webpack_require__.n(FINAL_Our_promise_shutterstock_1125547376_2);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Navigation.vue?vue&type=script&lang=js&
+/* harmony default export */ var Navigationvue_type_script_lang_js_ = ({name:'Navigation',mounted:function mounted(){var _this=this;var threshold=10;var scrollPosition=window.scrollY;document.addEventListener('scroll',function(){if(!_this.open){var diff=window.scrollY-scrollPosition;if(diff>=threshold){_this.hide=true;}else if(diff<=-threshold||window.scrollY===0){_this.hide=false;}}scrollPosition=window.scrollY;});},data:function data(){var navigationTree=[{title:'Consumer Goods',href:'https://www.dksh.com/global-en/home/consumer-goods',children:[{title:'Fast Moving Consumer Goods',href:'https://www.dksh.com/global-en/home/consumer-goods/industries/fast-moving-consumer-goods'},{title:'Food Services',href:'https://www.dksh.com/global-en/home/consumer-goods/industries/food-services'},{title:'Luxury & Lifestyle',href:'https://www.dksh.com/global-en/home/consumer-goods/industries/luxury-and-lifestyle'},{title:'Services',href:'https://www.dksh.com/global-en/home/consumer-goods/services'},{title:'Insights',href:'https://www.dksh.com/global-en/home/insights?bu=consumer-goods'}]},{title:'Healthcare',href:'https://www.dksh.com/global-en/home/healthcare',children:[{title:'Pharmaceuticals',href:'https://www.dksh.com/global-en/home/healthcare/industries/pharmaceuticals'},{title:'OTC & Consumer Health',href:'https://www.dksh.com/global-en/home/healthcare/industries/otc-and-consumer-health'},{title:'Medical Devices',href:'https://www.dksh.com/global-en/home/healthcare/industries/medical-devices'},{title:'Services',href:'https://www.dksh.com/global-en/home/healthcare/services'},{title:'Insights',href:'https://www.dksh.com/global-en/home/insights?bu=healthcare'}]},{title:'Performance Materials',href:'https://www.dksh.com/global-en/home/performance-materials',children:[{title:'Food & Beverage Ingredients',href:'https://www.dksh.com/global-en/home/performance-materials/industries/food-and-beverage-ingredients'},{title:'Personal Care Ingredients',href:'https://www.dksh.com/global-en/home/performance-materials/industries/personal-care-ingredients'},{title:'Pharmaceutical Ingredients',href:'https://www.dksh.com/global-en/home/performance-materials/industries/pharmaceutical-ingredients'},{title:'Specialty Chemicals',href:'https://www.dksh.com/global-en/home/performance-materials/industries/specialty-chemicals'},{title:'Services',href:'https://www.dksh.com/global-en/home/performance-materials/services'},{title:'Insights',href:'https://www.dksh.com/global-en/home/insights?bu=performance-materials'}]},{title:'Technology',href:'https://www.dksh.com/global-en/home/technology',children:[{title:'Hospitality Equipment',href:'https://www.dksh.com/global-en/home/technology/industries/hospitality-equipment'},{title:'Industrial Materials & Supplies',href:'https://www.dksh.com/global-en/home/technology/industries/industrial-materials-and-supplies'},{title:'Internet of Things',href:'https://www.dksh.com/global-en/home/technology/industries/internet-of-things'},{title:'Packaging, Printing & Converting',href:'https://www.dksh.com/global-en/home/technology/industries/packaging-printing-converting-solutions'},{title:'Precision Machinery',href:'https://www.dksh.com/global-en/home/technology/industries/precision-machinery'},{title:'Scientific Instrumentation',href:'https://www.dksh.com/global-en/home/technology/industries/scientific-instrumentation'},{title:'Semiconductor & Electronics',href:'https://www.dksh.com/global-en/home/technology/industries/semiconductor-photovoltaic-and-electronics'},{title:'Specialized Industrial Applications',href:'https://www.dksh.com/global-en/home/technology/industries/specialized-industrial-applications'},{title:'Services',href:'https://www.dksh.com/global-en/home/technology/services'},{title:'Products',href:'https://www.dksh.com/global-en/home/technology/product-search'},{title:'Insights',href:'https://www.dksh.com/global-en/home/insights?bu=technology'}]},{title:'Our Services',href:'https://www.dksh.com/global-en/home/services',children:[{title:'Sourcing',href:'https://www.dksh.com/cs/dksh_com/o/services/company/sourcing'},{title:'Market Insights',href:'https://www.dksh.com/global-en/home/services/market-research-and-analysis'},{title:'Marketing and Sales',href:'https://www.dksh.com/cs/dksh_com/m/services/company/marketing-and-sales'},{title:'Distribution and Logistics',href:'https://www.dksh.com/cs/dksh_com/d/services/company/distribution-and-logistics'},{title:'After-Sales Services',href:'https://www.dksh.com/cs/dksh_com/d/services/company/after-sales-services'},{title:'DKSH IT Backbone',href:'https://www.dksh.com/global-en/home/services/dksh-it-backbone'}]},{title:'Insights',href:'https://www.dksh.com/global-en/home/insights'}];var bottomNavigationTree=[{title:'Home',href:'https://www.dksh.com/global-en/home'},{title:'DKSH Group',href:'#',children:[{title:'About Us',href:'https://www.dksh.com/global-en/home/about-us'},{title:'Media',href:'https://www.dksh.com/global-en/home/media'},{title:'Sustainability',href:'https://www.dksh.com/global-en/home/about-us/sustainability'}]},{title:'Careers',href:'https://www.dksh.com/global-en/home/careers'},{title:'Investors',href:'https://www.dksh.com/global-en/home/investors'},{title:'Contacts',href:'https://www.dksh.com/global-en/home/contacts'}];var mobileTree=[].concat(navigationTree,bottomNavigationTree);var markets=[{"market":"Australia","href":"https://www.dksh.com/au-en/home"},{"market":"Cambodia","href":"https://www.dksh.com/kh-en/home"},{"market":"China","href":"https://www.dksh.com/cn-zh-Hans/home"},{"market":"Denmark","href":"https://www.dksh.com/dk-en/home"},{"market":"Finland","href":"https://www.dksh.com/dk-en/home"},{"market":"France","href":"https://www.dksh.com/fr-fr/home"},{"market":"Germany","href":"https://www.dksh.com/de-de/home"},{"market":"Great Britain","href":"https://www.dksh.com/gb-en/home"},{"market":"Guam","href":"https://www.guamwatches.com/"},{"market":"Hong Kong","href":"https://www.dksh.com/hk-en/home"},{"market":"India","href":"https://www.dksh.com/in-en/home"},{"market":"Indonesia","href":"https://www.dksh.com/id-en/home"},{"market":"Italy","href":"https://www.dksh.com/it-it/home"},{"market":"Japan","href":"https://www.dksh.com/jp-jp/home"},{"market":"Korea","href":"https://www.dksh.com/kr-ko/home"},{"market":"Laos","href":"https://www.dksh.com/la-en/home"},{"market":"Latvia","href":"https://www.dksh.com/dk-en/home"},{"market":"Malaysia","href":"https://www.dksh.com/my-en/home"},{"market":"Myanmar","href":"https://www.dksh.com/mm-en/home"},{"market":"Netherlands","href":"https://www.dksh.com/nl-en/home"},{"market":"New Zealand","href":"https://www.dksh.com/nz-en/home"},{"market":"Philippines","href":"https://www.dksh.com/ph-en/home"},{"market":"Poland","href":"https://www.dksh.com/pl-en/home"},{"market":"Portugal","href":"https://www.dksh.com/pt-pt/home"},{"market":"Saipan","href":"https://www.guamwatches.com/caronel-lifestyle"},{"market":"Singapore","href":"https://www.dksh.com/sg-en/home"},{"market":"Spain","href":"https://www.dksh.com/es-es/home"},{"market":"Sri Lanka","href":"https://www.dksh.com/lk-en/home"},{"market":"Sweden","href":"https://www.dksh.com/dk-en/home"},{"market":"Switzerland","href":"https://www.dksh.com/ch-de/home"},{"market":"Taiwan","href":"https://www.dksh.com/tw-zh-Hant/home"},{"market":"Thailand","href":"https://www.dksh.com/th-th/home"},{"market":"USA","href":"https://www.dksh.com/us-en/home"},{"market":"Vietnam","href":"https://www.dksh.com/vn-en/home"}];return{hide:false,showLanguageMenu:false,open:false,navigationTree:navigationTree,activeNavigation:undefined,bottomNavigationTree:bottomNavigationTree,mobileTree:mobileTree,markets:markets,logoSrc:nuxt_config["b" /* BASE_PATH */]+'img/logo_dksh_white.svg',backgroundSrc:FINAL_Our_promise_shutterstock_1125547376_2_default.a};},watch:{open:function open(newValue,oldValue){if(newValue===true){document.body.classList.add('overflow--hidden');}else{document.body.classList.remove('overflow--hidden');}}}});
+// CONCATENATED MODULE: ./components/Navigation.vue?vue&type=script&lang=js&
+ /* harmony default export */ var components_Navigationvue_type_script_lang_js_ = (Navigationvue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(34);
+
+// CONCATENATED MODULE: ./components/Navigation.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  components_Navigationvue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var Navigation = __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ 457:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/_index.vue?vue&type=template&id=4b5b0d2c&
+var render=function render(){var _vm=this,_c=_vm._self._c;return _c('div',[_c('Navigation'),_vm._v(" "),_c('ContentModule',{attrs:{"moduleData":_vm.moduleData,"moduleTypes":_vm.moduleTypes}}),_vm._v(" "),_c('Footer'),_vm._v(" "),_c('script',{attrs:{"src":"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js","data-document-language":"true","type":"text/javascript","charset":"UTF-8","data-domain-script":"aceb070b-65bd-453b-b852-5e847502cd14-test"}}),_vm._v(" "),_c('script',{attrs:{"type":"text/javascript"}},[_vm._v("\n    function OptanonWrapper() { }\n  ")])],1);};var staticRenderFns=[];
+// CONCATENATED MODULE: ./pages/_index.vue?vue&type=template&id=4b5b0d2c&
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.slice.js
+var es_array_slice = __webpack_require__(51);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.to-string.js
+var es_object_to_string = __webpack_require__(19);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.from.js
+var es_array_from = __webpack_require__(52);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.iterator.js
+var es_string_iterator = __webpack_require__(38);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.regexp.exec.js
+var es_regexp_exec = __webpack_require__(30);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.symbol.js
+var es_symbol = __webpack_require__(37);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.symbol.description.js
+var es_symbol_description = __webpack_require__(59);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.symbol.iterator.js
+var es_symbol_iterator = __webpack_require__(60);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/web.dom-collections.iterator.js
+var web_dom_collections_iterator = __webpack_require__(39);
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js
+var asyncToGenerator = __webpack_require__(17);
+
+// EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
+var runtime = __webpack_require__(76);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.function.name.js
+var es_function_name = __webpack_require__(31);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.map.js
+var es_array_map = __webpack_require__(55);
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/web.timers.js
+var web_timers = __webpack_require__(64);
+
+// EXTERNAL MODULE: ./node_modules/axios/index.js
+var axios = __webpack_require__(77);
+var axios_default = /*#__PURE__*/__webpack_require__.n(axios);
+
+// EXTERNAL MODULE: ./components/Banner.vue + 4 modules
+var Banner = __webpack_require__(423);
+
+// EXTERNAL MODULE: ./components/ContentModule.vue + 4 modules
+var ContentModule = __webpack_require__(449);
+
+// EXTERNAL MODULE: ./components/Footer.vue + 4 modules
+var Footer = __webpack_require__(408);
+
+// EXTERNAL MODULE: ./nuxt.config.js
+var nuxt_config = __webpack_require__(395);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/_index.vue?vue&type=script&lang=js&
+function _createForOfIteratorHelper(o,allowArrayLike){var it=typeof Symbol!=="undefined"&&o[Symbol.iterator]||o["@@iterator"];if(!it){if(Array.isArray(o)||(it=_unsupportedIterableToArray(o))||allowArrayLike&&o&&typeof o.length==="number"){if(it)o=it;var i=0;var F=function F(){};return{s:F,n:function n(){if(i>=o.length)return{done:true};return{done:false,value:o[i++]};},e:function e(_e){throw _e;},f:F};}throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");}var normalCompletion=true,didErr=false,err;return{s:function s(){it=it.call(o);},n:function n(){var step=it.next();normalCompletion=step.done;return step;},e:function e(_e2){didErr=true;err=_e2;},f:function f(){try{if(!normalCompletion&&it.return!=null)it.return();}finally{if(didErr)throw err;}}};}function _unsupportedIterableToArray(o,minLen){if(!o)return;if(typeof o==="string")return _arrayLikeToArray(o,minLen);var n=Object.prototype.toString.call(o).slice(8,-1);if(n==="Object"&&o.constructor)n=o.constructor.name;if(n==="Map"||n==="Set")return Array.from(o);if(n==="Arguments"||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n))return _arrayLikeToArray(o,minLen);}function _arrayLikeToArray(arr,len){if(len==null||len>arr.length)len=arr.length;for(var i=0,arr2=new Array(len);i<len;i++){arr2[i]=arr[i];}return arr2;}/* harmony default export */ var _indexvue_type_script_lang_js_ = ({components:{Footer:Footer["default"],Banner:Banner["default"],ContentModule:ContentModule["default"]},asyncData:function asyncData(_ref){return Object(asyncToGenerator["a" /* default */])(/*#__PURE__*/regeneratorRuntime.mark(function _callee3(){var params,error,payload,baseUrl,objectURI,pageData,moduleTypes,moduleUrls,moduleData,relations;return regeneratorRuntime.wrap(function _callee3$(_context3){while(1){switch(_context3.prev=_context3.next){case 0:params=_ref.params,error=_ref.error,payload=_ref.payload;baseUrl=Object(nuxt_config["c" /* getBaseURL */])();objectURI='/api/ezp/v2/content/objects/';pageData=null;moduleTypes=[];moduleUrls=[];moduleData=[];console.error('payload');console.error(payload);console.error(payload.contentId);_context3.next=12;return axios_default.a.get(baseUrl+'/api/ezp/v2/content/objects/'+payload.contentId+'?aaa'+new Date().getTime()+'=0234',{headers:{'Accept':'application/vnd.ez.api.Content+json'}}).then(function(res){var _res$data,_res$data$Content,_res$data$Content$Cur;pageData=(res===null||res===void 0?void 0:(_res$data=res.data)===null||_res$data===void 0?void 0:(_res$data$Content=_res$data.Content)===null||_res$data$Content===void 0?void 0:(_res$data$Content$Cur=_res$data$Content.CurrentVersion)===null||_res$data$Content$Cur===void 0?void 0:_res$data$Content$Cur.Version)||false;if(pageData&&pageData.Fields){var _pageData,_pageData$Fields;var _iterator=_createForOfIteratorHelper(((_pageData=pageData)===null||_pageData===void 0?void 0:(_pageData$Fields=_pageData.Fields)===null||_pageData$Fields===void 0?void 0:_pageData$Fields.field)||[]),_step;try{for(_iterator.s();!(_step=_iterator.n()).done;){var field=_step.value;if(field.fieldDefinitionIdentifier&&field.fieldDefinitionIdentifier==='content'){var _field$fieldValue;var _iterator2=_createForOfIteratorHelper((field===null||field===void 0?void 0:(_field$fieldValue=field.fieldValue)===null||_field$fieldValue===void 0?void 0:_field$fieldValue.zones)||[]),_step2;try{for(_iterator2.s();!(_step2=_iterator2.n()).done;){var zone=_step2.value;var _iterator3=_createForOfIteratorHelper((zone===null||zone===void 0?void 0:zone.blocks)||[]),_step3;try{for(_iterator3.s();!(_step3=_iterator3.n()).done;){var block=_step3.value;var _iterator4=_createForOfIteratorHelper(block.attributes),_step4;try{for(_iterator4.s();!(_step4=_iterator4.n()).done;){var attr=_step4.value;if(attr.name==='contentId'){moduleUrls.push(objectURI+attr.value);break;}}}catch(err){_iterator4.e(err);}finally{_iterator4.f();}}}catch(err){_iterator3.e(err);}finally{_iterator3.f();}}}catch(err){_iterator2.e(err);}finally{_iterator2.f();}}}}catch(err){_iterator.e(err);}finally{_iterator.f();}}}).then(/*#__PURE__*/Object(asyncToGenerator["a" /* default */])(/*#__PURE__*/regeneratorRuntime.mark(function _callee(){var _iterator5,_step5,mod;return regeneratorRuntime.wrap(function _callee$(_context){while(1){switch(_context.prev=_context.next){case 0:_iterator5=_createForOfIteratorHelper(moduleUrls);_context.prev=1;_iterator5.s();case 3:if((_step5=_iterator5.n()).done){_context.next=9;break;}mod=_step5.value;_context.next=7;return axios_default.a.get(baseUrl+mod+'?ts='+new Date().getTime(),{headers:{'Accept':'application/vnd.ez.api.Content+json'}}).then(function(res){moduleData.push({contentType:{_href:res.data.Content.ContentType._href},field:res.data.Content.CurrentVersion.Version.Fields.field});}).catch(function(e){console.error(e);});case 7:_context.next=3;break;case 9:_context.next=14;break;case 11:_context.prev=11;_context.t0=_context["catch"](1);_iterator5.e(_context.t0);case 14:_context.prev=14;_iterator5.f();return _context.finish(14);case 17:case"end":return _context.stop();}}},_callee,null,[[1,11,14,17]]);}))).then(/*#__PURE__*/Object(asyncToGenerator["a" /* default */])(/*#__PURE__*/regeneratorRuntime.mark(function _callee2(){return regeneratorRuntime.wrap(function _callee2$(_context2){while(1){switch(_context2.prev=_context2.next){case 0:_context2.next=2;return axios_default.a.get(baseUrl+'/api/ezp/v2/content/types'+'?ts='+new Date().getTime(),{headers:{'Accept':'application/vnd.ez.api.Content+json'}}).then(function(res){res.data.ContentTypeInfoList.ContentType.map(function(ct){moduleTypes.push({_href:ct._href,identifier:ct.identifier});});}).catch(function(e){console.error(e);});case 2:case"end":return _context2.stop();}}},_callee2);}))).catch(function(e){console.error(e);});case 12:relations=_context3.sent;return _context3.abrupt("return",{pageData:pageData,moduleData:moduleData,moduleTypes:moduleTypes,buildTime:new Date().toLocaleDateString()+' - '+new Date().toLocaleTimeString()});case 14:case"end":return _context3.stop();}}},_callee3);}))();},mounted:function mounted(){var _this=this;document.onreadystatechange=function(){if(document.readyState==='interactive'||document.readyState==='complete'){(function(){var handleIFrameEmbedLink=function handleIFrameEmbedLink(item,closed){var iFrame=item.getElementsByTagName('iframe');if(iFrame.length>0){iFrame=iFrame[0];iFrame.src=closed?'':iFrame.dataset.embedSrc;}};var setEqualHeights=function setEqualHeights(){var carousels=document.getElementsByClassName('testimonial-statement');var notDesktop=window.innerWidth<1024;for(var _i=0;_i<carousels.length;_i++){var itemHeights=[];var items=carousels[_i].getElementsByClassName('carousel-item');if(items.length>0){carousels[_i].style.removeProperty('height');for(var j=0;j<items.length;j++){items[j].classList.add('calculating');itemHeights.push(items[j].getBoundingClientRect().height);items[j].classList.remove('calculating');}carousels[_i].style.height=notDesktop?"".concat(Math.max.apply(null,itemHeights),"px"):'auto';}}};console.log('build',_this.buildTime);var modals=document.getElementsByClassName('modal');var _loop=function _loop(i){modals[i].addEventListener('shown.bs.modal',function(){handleIFrameEmbedLink(modals[i],false);});modals[i].addEventListener('hide.bs.modal',function(){handleIFrameEmbedLink(modals[i],true);});};for(var i=0;i<modals.length;i++){_loop(i);}setEqualHeights();window.addEventListener('orientationchange',setEqualHeights);var timeOut;window.onresize=function(){clearTimeout(timeOut);timeOut=setTimeout(setEqualHeights,100);};})();}};}});
+// CONCATENATED MODULE: ./pages/_index.vue?vue&type=script&lang=js&
+ /* harmony default export */ var pages_indexvue_type_script_lang_js_ = (_indexvue_type_script_lang_js_); 
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(34);
+
+// CONCATENATED MODULE: ./pages/_index.vue
+
+
+
+
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  pages_indexvue_type_script_lang_js_,
+  render,
+  staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ var _index = __webpack_exports__["default"] = (component.exports);
+
+/* nuxt-component-imports */
+installComponents(component, {Navigation: __webpack_require__(424).default,ContentModule: __webpack_require__(449).default,Footer: __webpack_require__(408).default})
+
+
+/***/ })
+
+}]);
