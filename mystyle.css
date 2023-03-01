@@ -13,17 +13,14 @@ body {
 @font-face {
     font-family: "NotoSansRegular";
     src: url("../newnav/fonts/NotoSans-Regular.ttf");
-    font-display: swap;
 }
 @font-face {
     font-family: "NotoSansLight";
     src: url("../newnav/fonts/NotoSans-Light.ttf");
-    font-display: block;
 }
 @font-face {
     font-family: "NotoSansBold";
     src: url("../newnav/fonts/NotoSans-Bold.ttf");
-    font-display: block;
 }
 
 .navigation-bar__wrapper.hide {
@@ -32,7 +29,7 @@ body {
 .navigation-bar {
     width: 100%;
     height: 100px;
-    font-family: NotoSansRegular;
+    font-family: NotoSansRegular, Arial;
 }
 /* Language Menu */
 .navbar_languageMenu {
@@ -142,7 +139,7 @@ body {
     }
 }
 #onetrust-accept-btn-handler, #onetrust-pc-btn-handler, #onetrust-reject-all-handler, .btn, .navbar_languageMenu-locations ul li, .table-row .text-block__content p, .text-t1 {
-    font-family: NotoSansRegular;
+    font-family: NotoSansRegular, Arial;
     font-style: normal;
     font-variant-ligatures: normal;
     font-variant-caps: normal;
@@ -424,7 +421,7 @@ body {
 .navigation-bar__fly-out--mobile__sub-nav__head {
     padding: 20px;
     font-size: 1.25rem;
-    font-family: NotoSansBold;
+    font-family: NotoSansBold, Arial;
     position: relative;
     background-position: 50%;
     background-size: cover;
@@ -568,7 +565,7 @@ a.raw {
     text-decoration: inherit!important;
 }
 .subhead-s1, .table-row .text-block__content .h4, .table-row .text-block__content h4 {
-    font-family: NotoSansBold;
+    font-family: NotoSansBold, Arial;
     font-style: normal;
     font-variant-ligatures: normal;
     font-variant-caps: normal;
@@ -629,7 +626,7 @@ a.raw {
     pointer-events: none;
     transition: opacity .2s;
     padding: 75px 50px;
-    font-family: NotoSansLight;
+    font-family: NotoSansLight, Arial;
 }
 /* navbar hamburger */
 .navigation-bar__item--menu.open .navigation-bar__item--menu__icon__line:first-child {
