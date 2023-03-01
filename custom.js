@@ -1,4 +1,12 @@
 window.addEventListener('DOMContentLoaded', (event) => {
+
+    if ('fonts' in document) {
+        Promise.all([
+            document.fonts.load('NotoSansRegular'),
+            document.fonts.load('NotoSansLight'),
+            document.fonts.load('NotoSansBold'),
+        ])
+    }
     const menuBtn = document.querySelector(".navigation-bar__item--menu");
 
     const menuBurger = document.querySelector(".navigation-bar__item--menu__icon");
