@@ -655,8 +655,11 @@ a.raw {
 .navigation-bar a:hover {
     color: #ef233c;
 }
-.navigation-bar__sub-nav__item:not(:last-child) {
-    margin-bottom: 2.625rem;
+.navigation-bar__sub-nav__item {
+    padding: 20px 0;
+}
+li.navigation-bar__sub-nav__item a {
+    display: block;
 }
 .navigation-bar__sub-nav__list {
     margin: 0;
