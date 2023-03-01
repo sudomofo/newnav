@@ -13,14 +13,17 @@ body {
 @font-face {
     font-family: "NotoSansRegular";
     src: url("../newnav/fonts/NotoSans-Regular.ttf");
+    font-display: swap;
 }
 @font-face {
     font-family: "NotoSansLight";
     src: url("../newnav/fonts/NotoSans-Light.ttf");
+    font-display: block;
 }
 @font-face {
     font-family: "NotoSansBold";
     src: url("../newnav/fonts/NotoSans-Bold.ttf");
+    font-display: block;
 }
 
 .navigation-bar__wrapper.hide {
