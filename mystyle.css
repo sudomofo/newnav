@@ -12,7 +12,7 @@ body {
 }
 @font-face {
     font-family: "NotoSansRegular";
-    src: url("../fonts/NotoSans-Regular.ttf");
+    src: url("..newnav/fonts/NotoSans-Regular.ttf");
 }
 
 .navigation-bar__wrapper.hide {
