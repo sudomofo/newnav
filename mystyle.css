@@ -120,7 +120,6 @@ body {
 }
 .navbar_languageMenu-locations {
     padding-right: 0;
-    height: calc(100% - 94px);
 }
 .navbar_languageMenu-locations ul {
     list-style: none;
