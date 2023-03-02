@@ -121,7 +121,6 @@ body {
 .navbar_languageMenu-locations {
     padding-right: 0;
     height: calc(100% - 94px);
-    overflow-y: scroll;
 }
 .navbar_languageMenu-locations ul {
     list-style: none;
@@ -651,7 +650,7 @@ a.raw {
 }
 /* abu test */
 .navbar_languageMenu.showLanguageMenu {
-    max-height: 80vh;
+    max-height: 150vh;
     pointer-events: all;
     transform: translateY(0);
     opacity: 1;
