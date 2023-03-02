@@ -121,6 +121,7 @@ body {
 .navbar_languageMenu-locations {
     padding-right: 0;
     height: calc(100% - 94px);
+    overflow-y: scroll;
 }
 .navbar_languageMenu-locations ul {
     list-style: none;
